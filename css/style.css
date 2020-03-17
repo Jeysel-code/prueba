@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Roboto:300,400,500,900&display=swap');
+body{
+font-family: 'Roboto', sans-serif;
+font-family: 'Arimo', sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+#our-Speciality{
+	background-color: #432a1c;
+	border-color: #865628;
+}
+.titulo{
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	
+}
+span{
+	color: #865628;
+}
+#our-Speciality h4{
+	color: #fff;
+	font-size: 15px;
+	text-align: left;
+}
+.cafe{
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border-radius: 100%;
+	background-color: #fff;
+}
+
+.btn-dark{
+	background-color: #c38346;
+	text-transform: uppercase;
+	border-color: #c38346;
+}
+#visitors{
+	background-image: url("../img/happyvisitor-bg.jpg");
+	color: #fff;
+	border: 1px thick;
+}
+
+.visit{
+	text-transform: uppercase;
+	text-align: center;
+	
+}
+#gallery{
+	background-image: url("../img/body-bg.jpg");
+	padding-bottom: 4%;
+}
+
+.img{
+	border: thick;
+	border-color: #fff;
+	
+}
+
+#gallery h2{
+	text-align: center;
+	padding: 20px;
+}
+
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
